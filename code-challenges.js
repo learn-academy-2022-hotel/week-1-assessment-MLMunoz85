@@ -27,7 +27,7 @@
 
 // Set one:
 // const fruit1 = "apple"
-// @@ -18,6 +36,31 @@ const fruit3 = "cherry"
+// -18,6 +36,31  const fruit3 = "cherry"
 // const fruit4 = "kiwi"
 // // Expected outcome: "cherry"
 
