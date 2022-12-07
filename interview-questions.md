@@ -26,7 +26,7 @@ Researched answer: The JavaScript operators that return a Boolean value are Equa
 
 3. What is an index? What is the difference between index and value?
 
-Your answer: An index is the location of a certain character/value in a string or an array. The difference between index and value is the index is the position where the value is located. The value can be string, name, number etc.
+Your answer: An index is the location of a certain character or value in a string or an array. The difference between index and value is the index is the position where the value is located. The value can be string, name, number etc.
 
 Researched answer: An index is the location of a certain character/value in a string or an array. The difference between index and value is the index is the position where the value is located. The value can be string, character, number etc, as long as it is a JavaScript data type. For example if I have an array ["Matt", "David", "Chris", "Allen"], each name or string is a value. Each of the values have an index: Matt is 0, David is 1, Chris is 2, Allen is 3.
 

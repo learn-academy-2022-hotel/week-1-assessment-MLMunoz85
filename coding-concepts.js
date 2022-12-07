@@ -43,7 +43,7 @@ const weekendDays = ["saturday", "sunday"]
 // console.log(weekendDays.toUpperCase())
 
 // a) Your answer: "SATURDAY" "SUNDAY"
-// b) Verify and explain: error, this is because toUpperCase is a built-in method for strings and not for arrays, you would need to turn the array into a string for toUpperCase to work.
+// b) Verify and explain: Error, this is because toUpperCase is a built-in method for strings and not for arrays, you would need to turn the array into a string for toUpperCase to work.
 
 // --------------------5) What will this log?
 
@@ -51,4 +51,4 @@ const dataTypes = ["number", "string", "Boolean", "undefined"]
 // console.log(typeof dataTypes.length)
 
 // a) Your answer: number
-// b) Verify and explain: number, this is because it is taking the length of the array dataTypes which produces a number, the typeof of a number is a number.
+// b) Verify and explain: Number, this is because it is taking the length of the array dataTypes which produces a number, the typeof of a number is a number.
